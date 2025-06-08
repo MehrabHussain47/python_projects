@@ -17,4 +17,4 @@ while True:
         print("Too high! Try again.")
     else:
         print(f"Congratulations! You guessed the number {number} correctly!")
-        break
+        break   # End the game
