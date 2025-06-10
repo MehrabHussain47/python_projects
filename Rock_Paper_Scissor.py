@@ -1,1 +1,0 @@
-print("Rock Paper Scissor Game!")
