@@ -6,6 +6,8 @@ player = False
 cpu_score = 0
 player_score = 0
 
+print("Welcome to the Rock Paper Scissors Game!")
+
 while True:
     computer = random.choice(choices)
     player = input("Rock, Paper or Scissors ? ").capitalize()
